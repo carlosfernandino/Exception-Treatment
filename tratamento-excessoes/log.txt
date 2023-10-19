@@ -1,0 +1,3 @@
+Ocorreu uma exceção: Erro de saque: A quantia excede o limite de saque.
+Ocorreu uma exceção: Erro de saque: A quantia excede o limite de saque.
+Ocorreu uma exceção: Erro de saque: Saldo insuficiente.
