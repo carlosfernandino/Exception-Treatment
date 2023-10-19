@@ -1,0 +1,1 @@
+Ocorreu uma exceção: Erro de saque: A quantia excede o limite de saque.
